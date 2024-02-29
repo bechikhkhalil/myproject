@@ -1,0 +1,40 @@
+#login12
+    {
+      color: purple;
+    }
+    #btr
+    {
+      background-color: purple;
+      color: white;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      background-color: white;
+      margin: 0;
+      padding: 0;
+    }
+
+    .left-side {
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+
+    .left-side img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: opacity 1s ease; /* Ajout de l'effet de transition */
+    }
+
+    body {
+      font-family: Arial, sans-serif; /* Utilisation de la police par défaut */
+    }
+
+    h1#big-text {
+      font-family: fantasy, sans-serif; /* Utilisation de la police fantasy pour le titre h1 */
+      font-size: 36px;
+      font-weight: bold;
+      color: #333;
+    }
